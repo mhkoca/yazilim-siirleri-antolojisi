@@ -88,7 +88,7 @@ Ne söylerler ne bir haber verirler
 
 Ne söylerler ne bir haber verirler
 
-
+ 
 
 Kiminin başında biter projeler
 

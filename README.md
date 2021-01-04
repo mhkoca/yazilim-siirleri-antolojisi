@@ -33,4 +33,6 @@ böyle bir deadline’da nüksetti;
 Beni bu deadline’lar mahvetti,
 
 
-Kaynak: [Gökhan Şengün](https://twitter.com/gokhansengun/status/990327250254991360?s=20)
+**Kaynak:** [Gökhan Şengün](https://twitter.com/gokhansengun/status/990327250254991360?s=20)
+---
+

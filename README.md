@@ -38,6 +38,7 @@ Beni bu deadline’lar mahvetti,
 
 
 **Kaynak:** [Gökhan Şengün](https://twitter.com/gokhansengun/status/990327250254991360?s=20)
+
 ---
 
 ## Developerız Biz
@@ -59,6 +60,7 @@ O github sana helal pushla
 Mastera da buralar deploy olsun
 
 **Kaynak:** [Bug Skywalker](https://twitter.com/yazilimci_adam/status/1344347226139729923)
+
 ---
 
 ## Bugsız Kod Olmaz

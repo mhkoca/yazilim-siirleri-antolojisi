@@ -6,6 +6,7 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 ### İçindekiler
 
 [Beni bu deadline’lar mahvetti](#beni-bu-deadlinelar-mahvetti)
+[Developerız Biz](#developeriz-biz)
 
 
 ---
@@ -36,3 +37,23 @@ Beni bu deadline’lar mahvetti,
 **Kaynak:** [Gökhan Şengün](https://twitter.com/gokhansengun/status/990327250254991360?s=20)
 ---
 
+## Developerız Biz
+
+Arar buluruz izini
+
+Bilirsin developerız biz
+
+Hem kodunda hem bugunda 
+
+Nerde olsan seninleyiz
+
+Fix oluruz pushunla
+
+Hadi gönder seniorlar coşsun
+
+O github sana helal pushla
+
+Mastera da buralar deploy olsun
+
+**Kaynak:** [Bug Skywalker](https://twitter.com/yazilimci_adam/status/1344347226139729923)
+---

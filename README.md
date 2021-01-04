@@ -90,7 +90,7 @@ Ne söylerler ne bir haber verirler
 
 Kiminin başında biter projeler
 
-Kiminin başında sararır refactorler
+Kiminin başında sararır refactoringler
 
 Kimi masum kimi güzel pull request'ler
 

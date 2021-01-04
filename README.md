@@ -74,3 +74,26 @@ Kaybettim commiti, ne olur bul öncekini
 Yoruldum halim yok, sen gel de fixle beni
 
 **Kaynak:** [Bug Skywalker](https://twitter.com/yazilimci_adam/status/1327925228907991045)
+
+---
+
+## Ah Developerlar
+
+Yalancı dile konup göçenler
+
+Ne söylerler ne bir haber verirler
+
+Üzerinde türlü frameworkler bitenler
+
+Ne söylerler ne bir haber verirler
+
+
+Kiminin başında biter projeler
+
+Kiminin başında sararır refactorler
+
+Kimi masum kimi güzel pull request'ler
+
+Ne söylerler ne bir star verirler
+
+**Kaynak:** [Ömer Ayyıldız](https://twitter.com/omerayyildiz101/status/1346133876603826179?s=21)

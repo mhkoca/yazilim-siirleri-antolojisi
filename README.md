@@ -11,6 +11,7 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Bugsız Kod Olmaz](#bugsiz-kod-olmaz)
 
+[Ah Developerlar](#ah-developerlar)
 
 ---
 
@@ -86,6 +87,7 @@ Ne söylerler ne bir haber verirler
 Üzerinde türlü frameworkler bitenler
 
 Ne söylerler ne bir haber verirler
+
 
 
 Kiminin başında biter projeler

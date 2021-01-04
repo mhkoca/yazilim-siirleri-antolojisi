@@ -6,7 +6,9 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 ### İçindekiler
 
 [Beni bu deadline’lar mahvetti](#beni-bu-deadlinelar-mahvetti)
+
 [Developerız Biz](#developeriz-biz)
+
 [Bugsız Kod Olmaz](#bugsiz-kod-olmaz)
 
 

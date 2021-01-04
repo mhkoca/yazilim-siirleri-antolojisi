@@ -1,2 +1,2 @@
-# yazilim-siirleri-antolojisi
-Yazılım Şiirleri Antolojisi - Yazılımla ilgili yazılmış veya uyarlanmış şiirler
+# Yazılım Şiirleri Antolojisi
+Yazılımla ilgili yazılmış veya uyarlanmış şiirler.

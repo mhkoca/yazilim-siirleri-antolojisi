@@ -23,36 +23,66 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 ## Tanıdık Yazılımcı
 Kiminin yeğeni, kiminin bir arkadaşının arkadaşı
+
 Kimsin sen tanıdık yazılımcı?
 
 Her yerdesin, her işin güzelini sen yapıyorsun
+
 Pahalıya değil karın tokluğuna çalışıyorsun
+
 Bir telefon uzaktasın, arayınca ulaşılamıyorsun
+
 Hayallerimle oynama beni ağlatıyorsun
 
+/
+
 Fikri olanların dostusun
+
 Sen diğer yazılımcılarının korkususun
+
 Her fikri hayata geçiriyorsun
+
 İnsan değil sanki otomasyonsun
 
+/
+
 Eminim klavyen hiç soğumuyordur
+
 Çayın kahven eksik olmuyordur
+
 Telefonun susmuyordur
+
 Umarım kulağın çınlıyordur
 
+/
+
+
 En yeni teknolojiler sende
+
 Sunucu masrafları “hallederiz abi” seviyesinde
+
 Değil Bill Gates, Elon Musk gelse
+
 Her işin oluru ancak sende
 
+/
+
 Söyle nasıl bitiriyorsun aldığın bunca işi
+
 Klavyene kuvvet söyle şu işin gizemini
+
 İnsan değilsin sanki bir derleyici
+
 Kiminin ilacısın kiminin derdi
 
+/
+
 Bir proje geldi sen başlamışsın
+
 Kodlarını gördüm her yeri yamamışsın
+
 Yorumlardan selamını aldım
+
 Artık hayal değil bir arkadaşsın
 
 **Kaynak:** [Emre Mert](https://medium.com/aykiri-yazilimcilar/tan%C4%B1d%C4%B1k-yaz%C4%B1l%C4%B1mc%C4%B1-5169cb82a861)

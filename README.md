@@ -34,7 +34,7 @@ Bir telefon uzaktasın, arayınca ulaşılamıyorsun
 
 Hayallerimle oynama beni ağlatıyorsun
 
-/
+\
 
 Fikri olanların dostusun
 
@@ -44,7 +44,7 @@ Her fikri hayata geçiriyorsun
 
 İnsan değil sanki otomasyonsun
 
-/
+\
 
 Eminim klavyen hiç soğumuyordur
 
@@ -54,7 +54,7 @@ Telefonun susmuyordur
 
 Umarım kulağın çınlıyordur
 
-/
+\
 
 
 En yeni teknolojiler sende
@@ -65,7 +65,7 @@ Değil Bill Gates, Elon Musk gelse
 
 Her işin oluru ancak sende
 
-/
+\
 
 Söyle nasıl bitiriyorsun aldığın bunca işi
 
@@ -75,7 +75,7 @@ Klavyene kuvvet söyle şu işin gizemini
 
 Kiminin ilacısın kiminin derdi
 
-/
+\
 
 Bir proje geldi sen başlamışsın
 

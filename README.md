@@ -7,15 +7,17 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Beni bu deadline’lar mahvetti](#beni-bu-deadlinelar-mahvetti)
 
-[Developerız Biz](#developeriz-biz)
+[Developerız Biz](#developerız-biz)
 
-[Bugsız Kod Olmaz](#bugsiz-kod-olmaz)
+[Bugsız Kod Olmaz](#bugsız-kod-olmaz)
 
 [Ah Developerlar](#ah-developerlar)
 
 [Compiler'a Haykırış](#compilera-haykırış)
 
 [Bir kavuşamadık TDD](#bir-kavuşamadık-tdd)
+
+[Kodlamaya Giriş](#kodlamaya-giriş)
 
 ---
 
@@ -194,3 +196,53 @@ Kullanırım istediğin ide,
 Bir kavuşamadık TDD  
 
 **Kaynak:** [Uğur Atmaca](https://twitter.com/uguratm)
+
+---
+
+## Kodlamaya Giriş
+
+Aldım Udemy gösterdi bana;
+
+Nasıl yapılmaz kodlama.
+
+Açtım video dedi bana;
+
+Boşuna zamanını harcama.
+
+Ben bir garip Kayra,
+
+Nasıl yapacağımı anlatsana.
+
+\
+
+Geçtim birçok yoldan,
+
+Öğrendim kopyalama.
+
+Nasıl yaptığımı bana sorma.
+
+Aradım buldum nasıl yapılır kodlama.
+
+Ben bir garip Kayra,
+
+Aklımda var bir uygulama.
+
+\
+
+Öğreneyim diye çıktım yola.
+
+Gördüm birçok uygulama.
+
+Yazdım birçok satır ama,
+
+Baktım hepsi makarna.
+
+MVC nedir anlatsana.
+
+Async await'i bana sorma.
+
+Ben bir developer Kayra,
+
+Yaptım işte uygulama.
+
+**Kaynak:** [Kayra Berk Tuncer](https://twitter.com/kayraberktuncer)

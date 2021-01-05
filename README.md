@@ -119,7 +119,7 @@ Gel üzme şu garibi daha deploy olacak
 
 
 
-Referans dll ini bulamadım diyorsunda
+Referans dll'ini bulamadım diyorsun da
 
 Nugettan son sürüm kabul etmiyorsun ama
 
@@ -134,14 +134,14 @@ Nesne referansı bir örneğe ayarlanmadı diyorsun
 
 Ne yapayım ben torpil sevmiyorum biliyorsun
 
-Bazı hataların source unu tam vermiyorsun
+Bazı hataların source'unu tam vermiyorsun
 
 Kime sorayım stackoverflowdan da gayrı
 
 
 
 
-Interface i implement etmedin diye kızıyorsun
+Interface'i implement etmedin diye kızıyorsun
 
 Abstract bir classın örneğini vermem diyorsun
 

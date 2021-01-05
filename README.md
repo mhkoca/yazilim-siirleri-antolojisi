@@ -116,7 +116,7 @@ Ben de istemez miyim her şey tamam olsun da
 
 Gel üzme şu garibi daha deploy olacak
 
-\
+
 \
 
 Referans dll'ini bulamadım diyorsun da
@@ -128,7 +128,7 @@ Buldum diyorum farklı platform diyorsun ya
 Beni bu istikrarlı reddedişin yaralar
 
 
-\
+
 \
 
 
@@ -141,7 +141,7 @@ Bazı hataların source'unu tam vermiyorsun
 Kime sorayım stackoverflowdan da gayrı
 
 
-\
+
 \
 
 
@@ -154,7 +154,7 @@ Private diye metodu bana kullandırtmıyorsun
 Sendeki trip kız arkadaşımda yok
 
 
-\
+
 \
 
 

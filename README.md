@@ -13,6 +13,8 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Ah Developerlar](#ah-developerlar)
 
+[Compiler'a Haykırış](#compilera-haykırış)
+
 ---
 
 
@@ -101,3 +103,61 @@ Kimi masum kimi güzel pull request'ler
 Ne söylerler ne bir star verirler
 
 **Kaynak:** [Ömer Ayyıldız](https://twitter.com/omerayyildiz101/status/1346133876603826179?s=21)
+
+---
+
+## Compiler'a Haykırış
+
+Build etsem kızar mısın cli'ında
+
+Belki unuttum bir noktalı virgul komut sonunda
+
+Ben de istemez miyim her şey tamam olsun da
+
+Gel üzme şu garibi daha deploy olacak
+
+
+
+
+Referans dll'ini bulamadım diyorsun da
+
+Nugettan son sürüm kabul etmiyorsun ama
+
+Buldum diyorum farklı platform diyorsun ya
+
+Beni bu istikrarlı reddedişin yaralar
+
+
+
+
+Nesne referansı bir örneğe ayarlanmadı diyorsun
+
+Ne yapayım ben torpil sevmiyorum biliyorsun
+
+Bazı hataların source'unu tam vermiyorsun
+
+Kime sorayım stackoverflowdan da gayrı
+
+
+
+
+Interface'i implement etmedin diye kızıyorsun
+
+Abstract bir classın örneğini vermem diyorsun
+
+Private diye metodu bana kullandırtmıyorsun
+
+Sendeki trip kız arkadaşımda yok
+
+
+
+
+Bu garip daha nice hüsrana uğradı
+
+Halimi ancak developerlar anladı
+
+Bugları çöze çöze mecnuna bağladı
+
+Nihayet içini burada döktü
+
+**Kaynak:** [Harun Emre](https://www.instagram.com/harunemre20/)

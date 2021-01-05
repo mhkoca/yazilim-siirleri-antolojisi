@@ -15,6 +15,8 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Compiler'a Haykırış](#compilera-haykırış)
 
+[Bir kavuşamadık TDD](#bir-kavuşamadık-tdd)
+
 ---
 
 
@@ -167,3 +169,28 @@ Bugları çöze çöze mecnuna bağladı
 Nihayet içini burada döktü
 
 **Kaynak:** [Harun Emre](https://www.instagram.com/harunemre20/)
+
+---
+
+## Bir kavuşamadık TDD
+
+Okulda tanıştık,  
+Birbirimize hemen alıştık,  
+Sonra mezun oldum,  
+Bir kavuşamadık TDD  
+
+\
+
+Her mülakatta sordum seni,  
+Yapıyoruz diye yediler beni,  
+Run edemedim unit testi,  
+Bir kavuşamadık TDD  
+
+\
+
+Artık ancak hayalde,  
+Kullanırım istediğin ide,  
+Önce fail sonra pass de,  
+Bir kavuşamadık TDD  
+
+**Kaynak:** [Uğur Atmaca](https://twitter.com/uguratm)

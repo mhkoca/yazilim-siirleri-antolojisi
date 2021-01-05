@@ -13,7 +13,7 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Ah Developerlar](#ah-developerlar)
 
-[Compiler'a Haykırış] (#compilera-haykiris)
+[Compiler'a Haykırış](#compilera-haykiris)
 
 ---
 

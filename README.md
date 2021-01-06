@@ -21,6 +21,8 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Kodlamaya Giriş](#kodlamaya-giriş)
 
+[Koda Hiciv](#koda-hiciv)
+
 ---
 
 ## Tanıdık Yazılımcı
@@ -313,3 +315,37 @@ Ben bir developer Kayra,
 Yaptım işte uygulama.
 
 **Kaynak:** [Kayra Berk Tuncer](https://twitter.com/kayraberktuncer)
+
+---
+
+## Koda Hiciv
+
+SOAP iyi ama bi REST değil
+
+Yazdığını sandığın test değil
+
+Build process'ler geçiyor amma
+
+Yolladığın request POST değil
+
+\
+
+Go da iyi ama bi Rust değil
+
+Legacy codebase dost değil
+
+SEO önemli diyorsun amma
+
+UI framework'ün Next değil
+
+\
+
+DevOps öğren büyük bir cost değil
+
+Otomasyon iyidir manuel test değil
+
+Böyle de çalışıyor diyorsun amma
+
+Production orası localhost değil
+
+**Kaynak:** [Fatih Kadir Akın](https://twitter.com/fkadev/status/1346588755348639751?s=20)

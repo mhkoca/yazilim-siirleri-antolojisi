@@ -23,6 +23,8 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Koda Hiciv](#koda-hiciv)
 
+[DevOps'u yaşıyorum](#devopsu-yaşıyorum)
+
 ---
 
 ## Tanıdık Yazılımcı
@@ -349,3 +351,70 @@ Böyle de çalışıyor diyorsun amma
 Production orası localhost değil
 
 **Kaynak:** [Fatih Kadir Akın](https://twitter.com/fkadev/status/1346588755348639751?s=20)
+
+## DevOps'u Yaşıyorum
+
+DevOps'u yaşıyorum, serverlar önümde açık,
+
+Önce hafiften bir kod yazılıyor;
+
+Yavaş yavaş çalışıyor localhostta
+
+Sonra commitliyor developer, Sonar'a takılmadan
+
+Docker, Kubernetes, hepsi entegre;
+
+DevOps'u yaşıyorum, serverlar önümde açık.
+
+\
+
+DevOps'u yaşıyorum, serverlar önümde açık;
+
+Script'ler geçiyor, derken;
+
+CI/CD akıyor, sürekli bir döngü;
+
+Bir pipeline, bir automation;
+
+DevOps'u yaşıyorum, serverlar önümde açık.
+
+\
+
+DevOps'u yaşıyorum, serverlar önümde açık;
+
+Cloud'lar parlıyor, cıvıl cıvıl AWS,
+
+Azure, Google Cloud, hepsi bir arada,
+
+Container'lar geziniyor, Docker Swarm'da;
+
+Monitoring geliyor grafana'dan;
+
+DevOps'u yaşıyorum, serverlar önümde açık.
+
+\
+
+
+DevOps'u yaşıyorum, serverlar önümde açık;
+
+Bir incident çözülüyor, acil müdahale;
+
+Lojlar kaydediliyor, bir bir ELK stack'e;
+
+Kibana'da görselleşiyor, anlam buluyoruz;
+
+DevOps'u yaşıyorum, serverlar önümde açık.
+
+\
+
+DevOps'u yaşıyorum, serverlar önümde açık;
+
+Bir deployment yapılıyor kusursuzca;
+
+Yeni feature'lar yüklüyoruz, mutlulukla;
+
+Automation iş başında, hiç durmadan;
+
+DevOps'u yaşıyorum.
+
+**Kaynak:** [Yunus Yildiz](https://www.linkedin.com/in/yunus-yildiz1/)

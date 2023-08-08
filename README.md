@@ -399,7 +399,7 @@ DevOps'u yaşıyorum, serverlar önümde açık;
 
 Bir incident çözülüyor, acil müdahale;
 
-Lojlar kaydediliyor, bir bir ELK stack'e;
+Loglar kaydediliyor, bir bir ELK stack'e;
 
 Kibana'da görselleşiyor, anlam buluyoruz;
 

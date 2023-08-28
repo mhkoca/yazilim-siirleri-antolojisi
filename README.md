@@ -27,7 +27,7 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [Rob0t Marşı](#rob0t-marşı)
 
-[## Biliyorum Sana Ulaşan Kodlar Hatalı](#biliyorum-sana-ulaşan-kodlar-hatalı)
+[Biliyorum Sana Ulaşan Kodlar Hatalı](#biliyorum-sana-ulaşan-kodlar-hatalı)
 
 ---
 

@@ -446,11 +446,18 @@ Hacklediği yaştasın
 ## Biliyorum Sana Ulaşan Kodlar Hatalı
 
 Biliyorum sana ulaşan kodlar hatalı
+
 Üstelik sen de hiç bir runtime çalıştın mı, doğru versiyon musun bilmem
+
 Ne kadar yakından ve arada bug'lar;
+
 Fonksiyonlar, döngüler, aramızda firewaller gibi
+
 Uyandım uyandım, hep kodu düşündüm
+
 Yalnız seni, yalnız senin algoritmanı
+
 Sen Bayan Final Release, sen crash'im ve çözümüm
+
 Ben artık developer olmam bu bug'a rastgeldim rastgeleli
 

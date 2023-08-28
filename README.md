@@ -25,6 +25,8 @@ Yazılımla ilgili yazılmış veya uyarlanmış şiirler.
 
 [DevOps'u yaşıyorum](#devopsu-yaşıyorum)
 
+[Rob0t Marşı](#rob0t-marşı)
+
 ---
 
 ## Tanıdık Yazılımcı
@@ -418,3 +420,23 @@ Automation iş başında, hiç durmadan;
 DevOps'u yaşıyorum.
 
 **Kaynak:** [Yunus Yildiz](https://www.linkedin.com/in/yunus-yildiz1/)
+
+## Rob0t Marşı
+
+Commitler edilecek
+
+Commitler itilecek
+
+\
+
+/dev/null’dasın
+
+/bin/sh’tasın
+
+\
+
+Elliot’un E Corp’u
+
+Hacklendiği yaştasın
+
+**Kaynak:** [Bahadır Kandemir](https://twitter.com/kandemir)

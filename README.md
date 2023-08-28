@@ -437,6 +437,6 @@ Commitler itilecek
 
 Elliot’un E Corp’u
 
-Hacklendiği yaştasın
+Hacklediği yaştasın
 
 **Kaynak:** [Bahadır Kandemir](https://twitter.com/kandemir)
